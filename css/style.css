@@ -18,7 +18,16 @@ main h1 {
     color: #cccccc;
 }
 
+main h2 {
+    color: #cccccc;
+}
+
+main h3 {
+    color: #cccccc;
+}
+
 main p {
+    padding: 1rem 0 1rem;
     color: #bbbbbb;
 }
 
@@ -54,6 +63,7 @@ main p {
 
 .logo {
     width: 240px;
+    padding-bottom: 1rem;
 }
 
 .tooltip {
